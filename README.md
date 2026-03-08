@@ -10,3 +10,4 @@ git commit-m ------- to commit all changes.
 ls command ---- terminal shows all files in folder.
 ls - l -------detail k sath files (size,date ,wagera).
 pwd --- command shows k tum abhi computer abhi kis folder k ander ho wo path dikhaye ga.
+git push origin main ---- to pus 
